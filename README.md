@@ -1,2 +1,2 @@
 # -Coffee-Machine-
-A project that we created in JetBrains academy
+Coffe Machine project from hyperskill
